@@ -1,1 +1,2 @@
 # Customer-Transaction-Analytics-Dashboard-
+Developed an interactive Power BI dashboard to analyze over 10,000 real-world UPI and POS transactions, focusing on customer spending behavior and financial patterns. Used Excel and DAX to accurately classify transactions such as income, rent, and EMIs with 95% precision. The insights uncovered cross-sell opportunities by identifying e-commerce spend trends, leading to strategic recommendations for targeted co-branded campaigns.
